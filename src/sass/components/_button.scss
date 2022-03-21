@@ -1,0 +1,16 @@
+.btn {
+  background-color: $color-primary;
+  width: 100%;
+  border: none;
+  border-radius: 50px;
+  padding: 0.9rem 0;
+}
+
+.btn-round {
+  background-color: hsl(213, 19%, 23%);
+  color: $color-neutral-light;
+  height: 44px;
+  width: 44px;
+  border-radius: 50%;
+  text-align: center;
+}

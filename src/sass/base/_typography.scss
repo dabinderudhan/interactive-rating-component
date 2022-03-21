@@ -1,0 +1,23 @@
+body {
+  font-family: $ff-default;
+  font-size: $fs-default;
+  font-weight: $fw-default;
+  line-height: 1.5;
+  color: $color-neutral-light;
+}
+
+button {
+  font-family: $ff-default;
+  color: $color-neutralwhite;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $color-neutralwhite;
+}
